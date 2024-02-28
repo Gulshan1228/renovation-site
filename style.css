@@ -283,7 +283,7 @@
     color: white;
     display: flex;
     padding:50px 100px;
-    /* justify-content: space-between; */
+    justify-content: space-between;
 }
 .form-content{
     width: 500px;
